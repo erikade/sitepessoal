@@ -1,0 +1,48 @@
+body{
+
+    background-color: #20B2AA;
+}
+
+#cli{
+    text-align: center;
+}
+
+#tabela{
+    border: none;
+   
+}
+
+#tabe{
+    background-color: black;
+    color: aliceblue;
+}
+#nani{
+    background-color: blue;
+    color: aliceblue;
+}
+
+#cliente{
+    background-color: black;
+    color: aliceblue;
+}
+#fiel{
+    border-color: black ;
+    background-color: rgba(0, 0, 0, 0.404);
+}
+#cancelar{
+  background-color: rgb(255, 60, 0);  
+  border: none;
+  padding: 5px;  
+  color: aliceblue;
+}
+#salva{
+    background-color: rgb(13, 141, 13);
+    border: none;
+    padding: 5px;
+    width: 60px;
+    color: white;
+}
+#gaga{
+    color: aliceblue;
+}
+
